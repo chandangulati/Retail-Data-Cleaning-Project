@@ -1,0 +1,12 @@
+Transaction_ID,Customer_Name,Product,Quantity,Price,Transaction_Date
+1001,Rahul Sharma,Laptop,1,55000,2025-01-05
+1002,Priya Verma,Mouse,2,,
+1003,,Keyboard,3,1200,2025-01-08
+1004,Amit Singh,Monitor,1,15000,2025-01-09
+1004,Amit Singh,Monitor,1,15000,2025-01-09
+1005,Neha Gupta,Headphones,,2500,2025-01-10
+1006,Raj Kumar,Mouse,50,800,2025-01-11
+1007,Anjali Mehta,Keyboard,2,1200,invalid_date
+1008,Vikas Jain,Laptop,1,55000,2025-01-13
+1009,,Monitor,2,15000,2025-01-14
+1010,Simran Kaur,Headphones,1,2500,
